@@ -1,1 +1,10 @@
-
+importing all the libraries-:
+checking if any value is missing-:
+separate dependent and independent variables-:
+    1] iloc()
+    2] value()
+Machine Learning Libraries-:
+  1] from sklearn.tree import DecisionTreeRegressor
+  2] use parameter like-:
+      DecisionTreeRegressor(*, criterion="squared_error", splitter="best", max_depth=None, min_samples_split=2, min_samples_leaf=1, min_weight_fraction_leaf=0.0, max_features=None, random_state=None, max_leaf_nodes=None, min_impurity_decrease=0.0, ccp_alpha=0.0)
+  3] and predict the salary useing DT
